@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{583842EC-4CCB-4735-AE79-45EBD89CD69B}|Default">
+  <MonoDevelop.Ide.ItemProperties.GSBgo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.cdbb956e19f00d310b0dc09db99f27c0a181cafa" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="27" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GSBgo" expanded="True">
+            <Node name="GSBgo.Droid" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GSBgo.Droid PreferredExecutionTarget="Android.4d0037b2d8cd61ed" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
