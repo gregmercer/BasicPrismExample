@@ -15,7 +15,7 @@ namespace GSBgo
 		protected override void OnInitialized()
 		{
 			InitializeComponent();
-            NavigationService.NavigateAsync("NavigationPage/MainPage");
+            NavigationService.NavigateAsync("NavigationPage/RoomsPage");
 		}
 
 		protected override void RegisterTypes()
@@ -24,6 +24,7 @@ namespace GSBgo
 
 			Container.RegisterTypeForNavigation<NavigationPage>();
 			Container.RegisterTypeForNavigation<MainPage>();
+			Container.RegisterTypeForNavigation<RoomsPage>();
 		}
 	}
 }
